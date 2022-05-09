@@ -7,5 +7,6 @@ int main()
 
     printf("Nurul Cholilah Septiyana (004)"); 
     printf ("Nurul Hasanah (001)");
+    Printf("Mochammad Nor Rizal K 006");
     return 0;
 }
